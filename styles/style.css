@@ -1,0 +1,40 @@
+.my-flower {
+    background-color: rgb(253, 210, 217);
+    display: flex;
+    height: 500px;
+    border-radius: 10px;
+
+
+}
+
+
+
+.flower {
+    padding: 20px;
+    width: 100%;
+    margin-left: 200px;
+    margin-top: 100px;
+
+}
+
+.div {
+    width: 100%;
+    margin-top: 20px;
+}
+
+#shop {
+    background-color: red;
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+    border: 1px solid coral;
+    width: 100px;
+
+}
+
+#hhh {
+
+    font-size: 50px;
+
+    margin-top: auto;
+}
