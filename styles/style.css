@@ -55,6 +55,7 @@
     width: 100px;
     border-radius: 5px;
     border: 2px solid red;
+    cursor: pointer;
 }
 
 #Of {
@@ -135,19 +136,29 @@
     left: 500px;
     bottom: -1200px;
 
+
 }
 
 #sub {
     background-color: red;
-    padding: 10px;
+    padding: 14px;
     border: 2px solid red;
     color: white;
     border-radius: 5px;
+    cursor: pointer;
+
+
+
 }
 
 .input {
-    width: 400px;
+
+    width: 518px;
     height: 40px;
+
+
+
+
 
 }
 
@@ -170,4 +181,28 @@
 
 #ssss {
     color: red;
+}
+
+label {
+    display: block;
+    position: absolute;
+    padding-top: 12px;
+    padding-left: 10px;
+    color: rgb(114, 114, 114);
+
+}
+
+.input {
+    position: relative;
+    right: 110px;
+}
+
+#sub {
+    position: relative;
+    right: 107px;
+}
+
+.text {
+    position: relative;
+    left: 39px;
 }
